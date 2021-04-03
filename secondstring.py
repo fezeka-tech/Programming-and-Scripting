@@ -1,3 +1,5 @@
+#WEEK 03#
+
 #This is a python function that outputs every second letter in reverse order#
 def second_string ( ) :
     sentence = input ("Please enter a sentence: ") .split ("The quick brown fox jumps over the lazy dog. ") #split sentence by space#
@@ -8,3 +10,4 @@ def second_string ( ) :
 
 strings = list (map(lambda x: x[::-1], second_letter)) #reverse second letter of a word#
 print ("The quick brown fox jumps over the lazy dog".join (strings[ ::-1])) #print all in reverse order#
+
