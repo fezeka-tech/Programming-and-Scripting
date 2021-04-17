@@ -1,4 +1,4 @@
-# this python program that reads in a text file and outputs the number of e's it contains #
+# this a python program that reads in a text file and outputs the number of e's it contains #
 
 def es():
     record = {}
@@ -15,3 +15,4 @@ def es():
     if __name__ == "__main__":
         es()
 
+# https://gist.github.com/StevenClontz/4445774 #
