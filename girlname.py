@@ -1,4 +1,3 @@
-
 # This is a program that generates popular girls' names #
 
 print("The most popular girl's name")
