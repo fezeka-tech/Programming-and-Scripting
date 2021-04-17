@@ -1,3 +1,4 @@
+# This is a program that inputs positive integer #
 
 positiveInteger = input("Enter a positive integer")
 
